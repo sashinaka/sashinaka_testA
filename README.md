@@ -1,5 +1,4 @@
  sashinaka_testA
 # sashinaka_test
-aiueoAtete
-oeuia
+testA
 # sashinaka_testA
